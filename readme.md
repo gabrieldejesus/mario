@@ -3,13 +3,13 @@
 🧱 Recreating the classic pyramid, from the super mario game in C, replacing the bricks with a #
 
 <p align="left">
-   <img alt="Stars" src="https://img.shields.io/github/stars/gabrieldejesus/mario-less?color=4A90E2&label=STARS&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
+   <img alt="Stars" src="https://img.shields.io/github/stars/gabrieldejesus/mario?color=4A90E2&label=STARS&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
 
-   <img alt="Forks" src="https://img.shields.io/github/forks/gabrieldejesus/mario-less?color=4A90E2&label=FORKS&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
+   <img alt="Forks" src="https://img.shields.io/github/forks/gabrieldejesus/mario?color=4A90E2&label=FORKS&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
 
-   <img alt="Issues" src="https://img.shields.io/github/issues/gabrieldejesus/mario-less?color=4A90E2&label=ISSUES&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
+   <img alt="Issues" src="https://img.shields.io/github/issues/gabrieldejesus/mario?color=4A90E2&label=ISSUES&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
 
-   <img alt="GitHub license" src="https://img.shields.io/github/license/gabrieldejesus/mario-less?color=4A90E2&label=LICENSE&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
+   <img alt="GitHub license" src="https://img.shields.io/github/license/gabrieldejesus/mario?color=4A90E2&label=LICENSE&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
 
   <a href="https://github.com/gabrieldejesus">
     <img alt="Follow gabrieldejesus" src="https://img.shields.io/static/v1?label=Follow&message=gabrieldejesus&style=for-the-badge&color=4A90E2&labelColor=222222" />
@@ -23,7 +23,7 @@ Windows:
 You can clone the repository through CMD (Command Prompt) just by typing:
 
 ```sh
-git clone https://github.com/gabrieldejesus/mario-less
+git clone https://github.com/gabrieldejesus/mario
 ```
 
 or download the zip from the green button at the beginning of the repository
@@ -54,11 +54,11 @@ Gabriel de Jesus – [My portfolio](https://gabrieldesenvolvedor.com/) – devga
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
-[https://github.com/gabrieldejesus/mario-less](https://github.com/gabrieldejesus)
+[https://github.com/gabrieldejesus/mario](https://github.com/gabrieldejesus)
 
 ## 🚀 Contribution
 
-1. Make the _fork_ of the project (<https://github.com/gabrieldejesus/mario-less/fork>)
+1. Make the _fork_ of the project (<https://github.com/gabrieldejesus/mario/fork>)
 2. Create a _branch_ for your modification (`git checkout -b my-new-resource`)
 3. Do _commit_ (`git commit -am 'Adding a new resource ...'`)
 4. _Push_ (`git push origin my-new-feature`)
