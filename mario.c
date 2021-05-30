@@ -15,7 +15,6 @@ int main(void)
     // TODO: Build pyramid
     for (int hashes = 1; hashes <= height; hashes++)
     {
-
         // TODO: Get height for pyramid and the line number
         // TODO: Find out how many points you need on that line
         int dots = height;
@@ -26,7 +25,15 @@ int main(void)
             printf(" ");
         }
 
-        for (int hashe = 0; hashe < hashes; hashe++)
+        for (int hasheLeft = 0; hasheLeft < hashes; hasheLeft++)
+        {
+            printf("#");
+        }
+        printf(" ");
+        printf(" ");
+
+        // TODO: add 2 spaces next to the left pyramid and then add a pyramid to the right
+        for (int hasheRight = 0; hasheRight < hashes; hasheRight++)
         {
             printf("#");
         }
